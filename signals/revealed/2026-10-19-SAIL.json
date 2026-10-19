@@ -1,0 +1,16 @@
+{
+ "commitment": "ba4d4158e06e303107aaa6434d9e53d032f83121f4cbca3cdb5f4f315674bded",
+ "item": {
+  "reason": "trail",
+  "ticker": "SAIL"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-19T13:57",
+  "sold": true
+ },
+ "revealed_at": "2026-10-19",
+ "salt": "2a13c4f291b6f18bce879c79aeb924bf",
+ "session": "2026-10-19",
+ "ticker": "SAIL"
+}

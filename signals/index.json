@@ -1,5 +1,17 @@
 [
  {
+  "session": "2026-10-20",
+  "stage": "close",
+  "published_at": "2026-10-19T18:53:30+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "72c7decfe8dc293890a8f5f1ef32ec7b419dab81f9f9146d9ca71c776e258681",
+  "signature": "AFhtHK1fX1rIr9E4bsS3U3gueyNQTFTBrp2N6O9rH0U3lv1cJK5hFjqzyQUINLPp9eRK3ytMlVUhH/n/VujgAg==",
+  "file": "2026-10-20.json",
+  "revealed": []
+ },
+ {
   "session": "2026-10-19",
   "stage": "preopen",
   "published_at": "2026-10-19T12:58:03+00:00",
@@ -9,7 +21,36 @@
   "sha256": "c58ff633c0bf4317273076f84b0b2c9486e3b5a45815d7fd94bf8b23ce30935f",
   "signature": "3RtRKgN1/ycrlpnev0xSi3qsQCQy+WHBpPawsAISt/+fBYyspRSH1pIT2jxs4cRNuP8OR7olgq5jXDuWzIYNCg==",
   "file": "2026-10-19-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "CRWD",
+    "file": "2026-10-19-CRWD.json",
+    "revealed_at": "2026-10-19",
+    "outcome": {
+     "exited": "2026-10-19T13:57",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "CRWD"
+    }
+   },
+   {
+    "kind": "exit",
+    "ticker": "SAIL",
+    "file": "2026-10-19-SAIL.json",
+    "revealed_at": "2026-10-19",
+    "outcome": {
+     "exited": "2026-10-19T13:57",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "SAIL"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-19",
@@ -21,7 +62,36 @@
   "sha256": "b7e955086d8b0401536f9e1c4913a380b0c067205ae95b7809121132752eaa57",
   "signature": "cCCEqC5lhE6B/LX8OlABQZWFI8SH/1dxHLUlgosKwOmgjAqBDzSaJKe2ii9/H7gXBMjEcl3jt4zhZMUcatPEDQ==",
   "file": "2026-10-19.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "CRWD",
+    "file": "2026-10-19-CRWD.json",
+    "revealed_at": "2026-10-19",
+    "outcome": {
+     "exited": "2026-10-19T13:57",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "CRWD"
+    }
+   },
+   {
+    "kind": "exit",
+    "ticker": "SAIL",
+    "file": "2026-10-19-SAIL.json",
+    "revealed_at": "2026-10-19",
+    "outcome": {
+     "exited": "2026-10-19T13:57",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "SAIL"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-16",

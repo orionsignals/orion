@@ -1,0 +1,16 @@
+{
+ "commitment": "4d2f7c149d94487622d0b5fbfee17f341f8299e35516003e2f6a652be31e8c54",
+ "item": {
+  "reason": "trail",
+  "ticker": "CRWD"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-19T13:57",
+  "sold": true
+ },
+ "revealed_at": "2026-10-19",
+ "salt": "c2b94c2f0e096dfa6111e89689b3a87b",
+ "session": "2026-10-19",
+ "ticker": "CRWD"
+}
