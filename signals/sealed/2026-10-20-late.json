@@ -1,0 +1,27 @@
+{
+ "algorithm": "ed25519",
+ "public_key_file": "signals/PUBLIC_KEY.txt",
+ "public_key_hex": "e6855a3488a708920b01df5aca4e0727a31d213e9edb03c3ce27d85a70c06d97",
+ "sealed": {
+  "commitments": {
+   "entries": [
+    "cd7a7e3cdefdebebed61bde04bc9bab1f0d97151e7ddbf2ac89b6a9bf9178f8c"
+   ],
+   "exits": [],
+   "trend_sleeve": "1a3ba07a2a0532b6fa0ede3b078200e5632d63187cbcc7a21c42f380175b3b6c"
+  },
+  "fingerprint": "bebdf22ac918fe16",
+  "market_filter_on": true,
+  "n_entries": 1,
+  "n_exits": 0,
+  "note": "Sealed after the open. GitHub fired the after-close radar three hours late, at 00:28 UTC; the plan it saw held no entries and was sealed at 00:29 as this session's pre-open document. The 12:51 UTC re-plan from the finished bars found this entry, but the record was write-once per session and refused to seal it. The order went in at 13:43 UTC. This document was written afterwards, with its true time, so the trade is on the record rather than missing from it; the rule that refused the re-seal is gone.",
+  "plan_date": "2026-10-19",
+  "published_at": "2026-10-20T13:49:29+00:00",
+  "schema": "orion-sealed/1",
+  "session": "2026-10-20",
+  "stage": "late"
+ },
+ "sha256": "810acb1f6642ee49a991c290d8488270b81ff2da620b9a36176ac142b941e5a7",
+ "signature": "/o2pWS9DH+BYQg/ct6i3LzDVu0guQQ26sIRPIpxK6YhS1zmIvuipQV6S+TcOQESAqMRNgAT66yeCOA6PQqeLAA==",
+ "signed_message": "sha256 hex as ascii"
+}

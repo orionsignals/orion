@@ -1,12 +1,28 @@
 [
  {
   "session": "2026-10-20",
+  "stage": "late",
+  "published_at": "2026-10-20T13:49:29+00:00",
+  "n_entries": 1,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "810acb1f6642ee49a991c290d8488270b81ff2da620b9a36176ac142b941e5a7",
+  "seq": 1,
+  "note": "Sealed after the open. GitHub fired the after-close radar three hours late, at 00:28 UTC; the plan it saw held no entries and was sealed at 00:29 as this session's pre-open document. The 12:51 UTC re-plan from the finished bars found this entry, but the record was write-once per session and refused to seal it. The order went in at 13:43 UTC. This document was written afterwards, with its true time, so the trade is on the record rather than missing from it; the rule that refused the re-seal is gone.",
+  "signature": "/o2pWS9DH+BYQg/ct6i3LzDVu0guQQ26sIRPIpxK6YhS1zmIvuipQV6S+TcOQESAqMRNgAT66yeCOA6PQqeLAA==",
+  "file": "2026-10-20-late.json",
+  "revealed": []
+ },
+ {
+  "session": "2026-10-20",
   "stage": "preopen",
   "published_at": "2026-10-20T00:29:16+00:00",
   "n_entries": 0,
   "n_exits": 0,
   "market_filter_on": true,
   "sha256": "3f46ebdd81d0229e349b07b556925b9bd66f13b99f73ab1a7911d6e2c89422b4",
+  "seq": 1,
+  "note": null,
   "signature": "Ix5PYXA7t3TSd7/ghSEEmDxlOgMNSw9PITQMcp7v6qA+xlbbGoThyndfdOiF3xhhq2SsYw3SxRa3q0MW86y3Ag==",
   "file": "2026-10-20-preopen.json",
   "revealed": []
@@ -19,6 +35,8 @@
   "n_exits": 2,
   "market_filter_on": true,
   "sha256": "c58ff633c0bf4317273076f84b0b2c9486e3b5a45815d7fd94bf8b23ce30935f",
+  "seq": 1,
+  "note": null,
   "signature": "3RtRKgN1/ycrlpnev0xSi3qsQCQy+WHBpPawsAISt/+fBYyspRSH1pIT2jxs4cRNuP8OR7olgq5jXDuWzIYNCg==",
   "file": "2026-10-19-preopen.json",
   "revealed": [
@@ -60,6 +78,8 @@
   "n_exits": 1,
   "market_filter_on": true,
   "sha256": "b7e955086d8b0401536f9e1c4913a380b0c067205ae95b7809121132752eaa57",
+  "seq": 1,
+  "note": null,
   "signature": "cCCEqC5lhE6B/LX8OlABQZWFI8SH/1dxHLUlgosKwOmgjAqBDzSaJKe2ii9/H7gXBMjEcl3jt4zhZMUcatPEDQ==",
   "file": "2026-10-19.json",
   "revealed": [
@@ -101,6 +121,8 @@
   "n_exits": 0,
   "market_filter_on": true,
   "sha256": "52c48ddb951ae95909975de15e4fb7e8d2757afaba1b9380c7d207b1b3d71745",
+  "seq": 1,
+  "note": null,
   "signature": "SqLTMLnJ6sB/4xulfCR4+1KQkJr5eQSe7zWAUuA6azRMjFNZUJ4reBaXCOD4cajYS0FVL/s+CKNV3mLodbObAg==",
   "file": "2026-10-16.json",
   "revealed": []
@@ -113,6 +135,8 @@
   "n_exits": 2,
   "market_filter_on": true,
   "sha256": "60cffa8b0a66b0c18fe81de4448dc4917ce81093a25c2eb52501ad41f126ecc6",
+  "seq": 1,
+  "note": null,
   "signature": "kTEJ66meqzVPgDNy44mfhH8pbQb5Q2+RBWP9GQr9z4MhCX2F+mlehAcopekv29UfNQp2g/cCB2lHPIhNLaS1Ag==",
   "file": "2026-10-15-preopen.json",
   "revealed": [
@@ -154,6 +178,8 @@
   "n_exits": 0,
   "market_filter_on": true,
   "sha256": "200a0a1b27149b479943f083ff06d4ede00e71e4a7411261ae657d2bf0b1720b",
+  "seq": 1,
+  "note": null,
   "signature": "7o6RtZI1OQnt2v4i4j4GSt8J4EsZtB3cT3tRyu6rfjR3qZzARDk51Gyuu79CXC9LmsacwU9sOhHMT1yRbgRHAQ==",
   "file": "2026-10-15.json",
   "revealed": [
@@ -195,6 +221,8 @@
   "n_exits": 0,
   "market_filter_on": true,
   "sha256": "0c5be9275551efe7183ed06fea8c179acce8449b96fe314f56f2f59e300de10f",
+  "seq": 1,
+  "note": null,
   "signature": "p+9EYqoEWKDd/i58zCPzgyoH5IXE3XtvEtN/mNgUC3m5pqLowGcWmNkWnUSTW3pZ6ORjWNAUfP8ACy5jYktUAg==",
   "file": "2026-10-14-preopen.json",
   "revealed": []
@@ -207,6 +235,8 @@
   "n_exits": 0,
   "market_filter_on": true,
   "sha256": "bdbe1a3b271b5250f278b6eb4d0d4737370046c2ddecf4bc634ad10eb6068700",
+  "seq": 1,
+  "note": null,
   "signature": "HIoVlH11zK1fePFkpRbUMW9CShY26RfNsRJk6DSjQ8IVJ+v4Bazl3CpAD8idud8ARBoQZHAkBX7EC8BecXP5BQ==",
   "file": "2026-10-14.json",
   "revealed": []
