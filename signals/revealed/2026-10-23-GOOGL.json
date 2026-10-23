@@ -1,0 +1,16 @@
+{
+ "commitment": "8494dfa5b7c98b0974526b7045df40146d1678ce2fc0c6943e784e0461581a6e",
+ "item": {
+  "reason": "stop",
+  "ticker": "GOOGL"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-23T13:43",
+  "sold": true
+ },
+ "revealed_at": "2026-10-23",
+ "salt": "5ca8c9eac24ea7be527833b2d59ea9fd",
+ "session": "2026-10-23",
+ "ticker": "GOOGL"
+}
