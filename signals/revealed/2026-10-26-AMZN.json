@@ -1,0 +1,16 @@
+{
+ "commitment": "836b77a1b210fdbadbd12553816d6ce88935c8e9cc4c466bef06cc4a024fc18b",
+ "item": {
+  "reason": "stop",
+  "ticker": "AMZN"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-26T13:44",
+  "sold": true
+ },
+ "revealed_at": "2026-10-26",
+ "salt": "392ad06c99f975ab48aae431a4eab090",
+ "session": "2026-10-26",
+ "ticker": "AMZN"
+}

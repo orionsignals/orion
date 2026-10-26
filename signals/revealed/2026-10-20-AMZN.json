@@ -1,0 +1,25 @@
+{
+ "commitment": "cd7a7e3cdefdebebed61bde04bc9bab1f0d97151e7ddbf2ac89b6a9bf9178f8c",
+ "item": {
+  "atr": 6.6169,
+  "initial_stop": 249.2162,
+  "planned_entry": "2026-10-20T09:35:00-04:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": 5.1846,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "AMZN"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": true,
+  "entered": "2026-10-20T13:43",
+  "exit_reason": "swing exit: stop",
+  "exited": "2026-10-26T13:44"
+ },
+ "revealed_at": "2026-10-26",
+ "salt": "8dd8dd4fd4ac62961f2a84b40015f00a",
+ "session": "2026-10-20",
+ "ticker": "AMZN"
+}
