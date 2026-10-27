@@ -11,7 +11,22 @@
   "note": null,
   "signature": "wX/z3n0ClgljoQUV3rfHXpkNlydt1ydkP+FSz4Hr5rL5CC+T3PwJcrsS9wn2CERC904zh82y7avcgZhiwEA9AQ==",
   "file": "2026-10-27-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "IBRX",
+    "file": "2026-10-27-IBRX.json",
+    "revealed_at": "2026-10-27",
+    "outcome": {
+     "exited": "2026-10-27T13:47",
+     "sold": true
+    },
+    "item": {
+     "reason": "trail",
+     "ticker": "IBRX"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-26",

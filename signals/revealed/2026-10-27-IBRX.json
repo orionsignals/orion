@@ -1,0 +1,16 @@
+{
+ "commitment": "7aa9bf5df5bcd11dee01be96ca2170221a6836de18d2a6b7e25932acfb13b075",
+ "item": {
+  "reason": "trail",
+  "ticker": "IBRX"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-27T13:47",
+  "sold": true
+ },
+ "revealed_at": "2026-10-27",
+ "salt": "d3eae32d1b2862d3ae559c5d904502cb",
+ "session": "2026-10-27",
+ "ticker": "IBRX"
+}
