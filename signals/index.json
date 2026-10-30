@@ -11,7 +11,22 @@
   "note": null,
   "signature": "mKaXWL/O5WKQWoJcGpr+C6hEJfwXk8zpV7FVoHvG1JeT69I0UdTLcTufLE6powzMirmhJcHUMIx9HVMxL6pbBw==",
   "file": "2026-10-30-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "NOW",
+    "file": "2026-10-30-NOW.json",
+    "revealed_at": "2026-10-30",
+    "outcome": {
+     "exited": "2026-10-30T14:06",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "NOW"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-30",
@@ -25,7 +40,22 @@
   "note": null,
   "signature": "NZrNZE2OeDJMXyymbt9reK/AR8f7IpzJl7xrNMcdUKMIZrZnisEw31kouScZZfSthfzb8v7fDe/vkigkrHOyDw==",
   "file": "2026-10-30-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "NOW",
+    "file": "2026-10-30-NOW.json",
+    "revealed_at": "2026-10-30",
+    "outcome": {
+     "exited": "2026-10-30T14:06",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "NOW"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-29",
@@ -153,6 +183,29 @@
      "reason": "stop",
      "ticker": "GOOGL"
     }
+   },
+   {
+    "kind": "entry",
+    "ticker": "NOW",
+    "file": "2026-10-23-NOW.json",
+    "revealed_at": "2026-10-30",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-23T17:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-10-30T14:06"
+    },
+    "item": {
+     "atr": 6.0635,
+     "initial_stop": 144.873,
+     "planned_entry": "2026-10-23T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 9.2244,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NOW"
+    }
    }
   ]
  },
@@ -181,6 +234,29 @@
     "item": {
      "reason": "stop",
      "ticker": "GOOGL"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "NOW",
+    "file": "2026-10-23-NOW.json",
+    "revealed_at": "2026-10-30",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-23T17:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-10-30T14:06"
+    },
+    "item": {
+     "atr": 6.0635,
+     "initial_stop": 144.873,
+     "planned_entry": "2026-10-23T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 9.2244,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NOW"
     }
    }
   ]

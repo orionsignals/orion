@@ -1,0 +1,16 @@
+{
+ "commitment": "a242778b4bfcc8f48782214f66d9f3a966cb4f22ee9eeb125bdb523eedfcf062",
+ "item": {
+  "reason": "stop",
+  "ticker": "NOW"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-10-30T14:06",
+  "sold": true
+ },
+ "revealed_at": "2026-10-30",
+ "salt": "8afeccd743c0e7836d8495fdf5ccb4e4",
+ "session": "2026-10-30",
+ "ticker": "NOW"
+}
