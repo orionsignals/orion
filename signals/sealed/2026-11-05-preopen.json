@@ -1,0 +1,28 @@
+{
+ "algorithm": "ed25519",
+ "public_key_file": "signals/PUBLIC_KEY.txt",
+ "public_key_hex": "e6855a3488a708920b01df5aca4e0727a31d213e9edb03c3ce27d85a70c06d97",
+ "sealed": {
+  "commitments": {
+   "entries": [
+    "0b513af3f035a406241c1757c8fae40bc1529683d274f9a71f22887107a6f2e8",
+    "5c6476e65d3d7199299c35d97a2b828066921917ba76b3b424ebbe98f6422419",
+    "c8873c8997369e7b698e0d3d334eb65094a10cac0bd3c7359d540608f0bb9162"
+   ],
+   "exits": [],
+   "trend_sleeve": "8a3cdd4b48b3f8bf13bee0506aab1c3f16176344575f77d88cf2bbf304165f9a"
+  },
+  "fingerprint": "bebdf22ac918fe16",
+  "market_filter_on": true,
+  "n_entries": 3,
+  "n_exits": 0,
+  "plan_date": "2026-11-04",
+  "published_at": "2026-11-05T01:32:46+00:00",
+  "schema": "orion-sealed/1",
+  "session": "2026-11-05",
+  "stage": "preopen"
+ },
+ "sha256": "196513776d66e696b32fcec63c249b807e1c5202755701b97cb52b6add70a6d0",
+ "signature": "vK/g5idJxvH+BOpY3XydDfbV4FmglXaR2oK3NMebhf+utJsjxM6075IhZzhEUGK6wWsez5bSx04OFCiTq4bhCA==",
+ "signed_message": "sha256 hex as ascii"
+}
