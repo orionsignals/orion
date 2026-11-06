@@ -11,7 +11,22 @@
   "note": null,
   "signature": "EcXFwB7f29CJvRQLr97QCzfGoOgTkEr9/cUn/qwfFkWOheQLGzd0By3XalVQ6o56/1OgRji3eNKpwcnODG82BQ==",
   "file": "2026-11-06-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "NUE",
+    "file": "2026-11-06-NUE.json",
+    "revealed_at": "2026-11-06",
+    "outcome": {
+     "exited": "2026-11-06T14:44",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "NUE"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-06",
@@ -25,7 +40,22 @@
   "note": null,
   "signature": "m4kLUYbGO/tMJ2w1B8Ny4A4x1lo/Gv9HNhbULqJxD2a82m6ShD2/2N/aLXFOytBY2wJUMrllpNLfveT2AukoDQ==",
   "file": "2026-11-06-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "NUE",
+    "file": "2026-11-06-NUE.json",
+    "revealed_at": "2026-11-06",
+    "outcome": {
+     "exited": "2026-11-06T14:44",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "NUE"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-05",
@@ -153,7 +183,31 @@
   "note": null,
   "signature": "rDHqvogxbKpICI3O5tet/KsTeswWRee6Kw6NS7AwdW/oGiezUaEvLqwBn8AC4SRht8CS57Jx8xIRHE0RrjZbBg==",
   "file": "2026-10-29-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "entry",
+    "ticker": "NUE",
+    "file": "2026-10-29-NUE.json",
+    "revealed_at": "2026-11-06",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-29T13:55",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-06T14:44"
+    },
+    "item": {
+     "atr": 8.7922,
+     "initial_stop": 254.2056,
+     "planned_entry": "2026-10-29T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": -0.2538,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NUE"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-29",
@@ -167,7 +221,31 @@
   "note": null,
   "signature": "tsCLopPVdH3nVP8b5HwnKU3CXH4k6ZPjoe3jEHxFAvJyDgz6J1t+7yKD29cG+W7j52ztHsW8mAWwGIrumVa8Bg==",
   "file": "2026-10-29-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "entry",
+    "ticker": "NUE",
+    "file": "2026-10-29-NUE.json",
+    "revealed_at": "2026-11-06",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-29T13:55",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-06T14:44"
+    },
+    "item": {
+     "atr": 8.7922,
+     "initial_stop": 254.2056,
+     "planned_entry": "2026-10-29T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": -0.2538,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NUE"
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-28",

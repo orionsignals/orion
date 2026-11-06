@@ -1,0 +1,16 @@
+{
+ "commitment": "eba12d9b58824d52199695bd6705e3be4dc9416ff26ab5fe0c0583c2d1ef1f74",
+ "item": {
+  "reason": "stop",
+  "ticker": "NUE"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-11-06T14:44",
+  "sold": true
+ },
+ "revealed_at": "2026-11-06",
+ "salt": "2743d8a5afc82b1a42865ced2053abfd",
+ "session": "2026-11-06",
+ "ticker": "NUE"
+}

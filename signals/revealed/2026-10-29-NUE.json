@@ -1,0 +1,25 @@
+{
+ "commitment": "9526bcab5f8d45e81d2000a7390837094c4d3e639a735e65c9863a07f7eabc87",
+ "item": {
+  "atr": 8.7922,
+  "initial_stop": 254.2056,
+  "planned_entry": "2026-10-29T09:35:00-04:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": -0.2538,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "NUE"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": true,
+  "entered": "2026-10-29T13:55",
+  "exit_reason": "swing exit: stop",
+  "exited": "2026-11-06T14:44"
+ },
+ "revealed_at": "2026-11-06",
+ "salt": "cbc23d7699ec6103e4786caeeff3fd9a",
+ "session": "2026-10-29",
+ "ticker": "NUE"
+}
