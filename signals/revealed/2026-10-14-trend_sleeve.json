@@ -1,0 +1,13 @@
+{
+ "commitment": "5b26d83ef2a0a7bafce7e7a1b95c79f43a40c150cc940c019862e85d347d7fec",
+ "item": {
+  "liquidate": false,
+  "targets": null
+ },
+ "kind": "trend_sleeve",
+ "outcome": {},
+ "revealed_at": "2026-11-11",
+ "salt": "9a29ca2e13488cb74468f0e58d01f2bc",
+ "session": "2026-10-14",
+ "ticker": null
+}

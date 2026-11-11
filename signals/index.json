@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-11",
+  "stage": "preopen",
+  "published_at": "2026-11-11T01:21:58+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": false,
+  "sha256": "af28a979b58f3f1d0613d5eed2b01aa99edaca2eacbc5893d2668d77cf89238e",
+  "seq": 1,
+  "note": null,
+  "signature": "YiSxG7uQ/iENos3dqjprtJLmJvGlkMvoEl0S/toF+M40k9DRchSp779tLp1FKf4ZiM6zCCE/SlECsZRNSpTaAw==",
+  "file": "2026-11-11-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-10",
   "stage": "preopen",
   "published_at": "2026-11-10T03:41:00+00:00",
@@ -767,7 +781,19 @@
   "note": null,
   "signature": "p+9EYqoEWKDd/i58zCPzgyoH5IXE3XtvEtN/mNgUC3m5pqLowGcWmNkWnUSTW3pZ6ORjWNAUfP8ACy5jYktUAg==",
   "file": "2026-10-14-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-14-trend_sleeve.json",
+    "revealed_at": "2026-11-11",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-14",
@@ -781,6 +807,18 @@
   "note": null,
   "signature": "HIoVlH11zK1fePFkpRbUMW9CShY26RfNsRJk6DSjQ8IVJ+v4Bazl3CpAD8idud8ARBoQZHAkBX7EC8BecXP5BQ==",
   "file": "2026-10-14.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-14-trend_sleeve.json",
+    "revealed_at": "2026-11-11",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
+   }
+  ]
  }
 ]
