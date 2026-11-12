@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-12",
+  "stage": "preopen",
+  "published_at": "2026-11-12T02:21:32+00:00",
+  "n_entries": 2,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "304d138820c014493e0b03409c2f39eba56263a892ba11ae3191167a2db8aa84",
+  "seq": 1,
+  "note": null,
+  "signature": "Ya0Y3ntQHu0vOcwlwsf5okyrYarsi6P0r7sUpyg5wTu6vzyuezOzmOK7XHN31tzWncmtbQYsBlo5z4TgkkiVBA==",
+  "file": "2026-11-12-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-11",
   "stage": "preopen",
   "published_at": "2026-11-11T01:21:58+00:00",
@@ -723,6 +737,17 @@
      "reason": "trail",
      "ticker": "SMCI"
     }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-15-trend_sleeve.json",
+    "revealed_at": "2026-11-12",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
    }
   ]
  },
@@ -765,6 +790,17 @@
     "item": {
      "reason": "trail",
      "ticker": "SMCI"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-15-trend_sleeve.json",
+    "revealed_at": "2026-11-12",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
