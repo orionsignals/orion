@@ -2,6 +2,20 @@
  {
   "session": "2026-11-13",
   "stage": "preopen",
+  "published_at": "2026-11-13T13:54:43+00:00",
+  "n_entries": 1,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "2a64fdf2fdfe26a28b9dd0a5750d85ec6c0863c8abdac63f3d7397750eb04497",
+  "seq": 2,
+  "note": null,
+  "signature": "oYa2uLJmYtUtn78JNo2DE9chyNNad5XYccc1M52N4C1G6VrbYg5CdMk2dupsOiR3jEEHmCdBAg1mCtwhw17MCQ==",
+  "file": "2026-11-13-preopen-2.json",
+  "revealed": []
+ },
+ {
+  "session": "2026-11-13",
+  "stage": "preopen",
   "published_at": "2026-11-13T01:54:31+00:00",
   "n_entries": 1,
   "n_exits": 0,
