@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-13",
+  "stage": "preopen",
+  "published_at": "2026-11-13T01:54:31+00:00",
+  "n_entries": 1,
+  "n_exits": 0,
+  "market_filter_on": true,
+  "sha256": "a234fe4464c98e2196a70d5fe926e099c6f4b2c03871994f6791e24b7f64ef79",
+  "seq": 1,
+  "note": null,
+  "signature": "2n+YgXxuBjb0aX7TaNgYSsVdy84qH4ezXSFTROu4oA71oM5h8N8/BbOcpNAs1+mbGAE9bn4qdJOaoRlXM/pKCA==",
+  "file": "2026-11-13-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-12",
   "stage": "preopen",
   "published_at": "2026-11-12T13:57:09+00:00",
@@ -709,7 +723,19 @@
   "note": null,
   "signature": "SqLTMLnJ6sB/4xulfCR4+1KQkJr5eQSe7zWAUuA6azRMjFNZUJ4reBaXCOD4cajYS0FVL/s+CKNV3mLodbObAg==",
   "file": "2026-10-16.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-16-trend_sleeve.json",
+    "revealed_at": "2026-11-13",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
+   }
+  ]
  },
  {
   "session": "2026-10-15",
