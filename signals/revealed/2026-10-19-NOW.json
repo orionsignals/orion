@@ -1,0 +1,23 @@
+{
+ "commitment": "90ae5da1a6fd4342e72ea0de1264160cc4d97698c746d6016d5aefa666edcb7a",
+ "item": {
+  "atr": 5.958,
+  "initial_stop": 136.654,
+  "planned_entry": "2026-10-19T09:35:00-04:00",
+  "rank": 3,
+  "risk_pct_of_equity": 1.5,
+  "score": 13.8734,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "NOW"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": false,
+  "note": "no position was opened on this signal"
+ },
+ "revealed_at": "2026-11-16",
+ "salt": "3f828a08252fcb3bcc11dd335754fbe6",
+ "session": "2026-10-19",
+ "ticker": "NOW"
+}

@@ -1,0 +1,23 @@
+{
+ "commitment": "776cd1b0760418b94d66eed1eecdc014a5c5542a02f234ab64472a00c387f4c0",
+ "item": {
+  "atr": 10.3042,
+  "initial_stop": 292.4216,
+  "planned_entry": "2026-10-19T09:35:00-04:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": 21.1491,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "VEEV"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": false,
+  "note": "no position was opened on this signal"
+ },
+ "revealed_at": "2026-11-16",
+ "salt": "6301e3d7e766c6bc3126ef6130c33631",
+ "session": "2026-10-19",
+ "ticker": "VEEV"
+}

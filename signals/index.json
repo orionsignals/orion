@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-16",
+  "stage": "preopen",
+  "published_at": "2026-11-16T13:57:13+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": false,
+  "sha256": "83def465b10366ce935e348fe1c60d3d3397c66583d1475018397ef11ee2a01c",
+  "seq": 1,
+  "note": null,
+  "signature": "yzp9hIiLqr0jNaFXn1VcZ2pjWEj9urUzVf4cd7EaImr2YdLy70wA4Eh2Pcoi/utnnygoQia52PjoN6D0x0GXAw==",
+  "file": "2026-11-16-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-13",
   "stage": "preopen",
   "published_at": "2026-11-13T13:54:43+00:00",
@@ -667,6 +681,69 @@
     }
    },
    {
+    "kind": "entry",
+    "ticker": "ELF",
+    "file": "2026-10-19-ELF.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 3.9017,
+     "initial_stop": 108.3066,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 2,
+     "risk_pct_of_equity": 1.5,
+     "score": 13.9627,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "ELF"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "KDP",
+    "file": "2026-10-19-KDP.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 0.8864,
+     "initial_stop": 32.4072,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 4,
+     "risk_pct_of_equity": 1.5,
+     "score": 5.082,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "KDP"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "NOW",
+    "file": "2026-10-19-NOW.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 5.958,
+     "initial_stop": 136.654,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 3,
+     "risk_pct_of_equity": 1.5,
+     "score": 13.8734,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NOW"
+    }
+   },
+   {
     "kind": "exit",
     "ticker": "SAIL",
     "file": "2026-10-19-SAIL.json",
@@ -678,6 +755,38 @@
     "item": {
      "reason": "trail",
      "ticker": "SAIL"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "VEEV",
+    "file": "2026-10-19-VEEV.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 10.3042,
+     "initial_stop": 292.4216,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 21.1491,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "VEEV"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-19-trend_sleeve.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
@@ -710,6 +819,69 @@
     }
    },
    {
+    "kind": "entry",
+    "ticker": "ELF",
+    "file": "2026-10-19-ELF.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 3.9017,
+     "initial_stop": 108.3066,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 2,
+     "risk_pct_of_equity": 1.5,
+     "score": 13.9627,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "ELF"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "KDP",
+    "file": "2026-10-19-KDP.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 0.8864,
+     "initial_stop": 32.4072,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 4,
+     "risk_pct_of_equity": 1.5,
+     "score": 5.082,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "KDP"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "NOW",
+    "file": "2026-10-19-NOW.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 5.958,
+     "initial_stop": 136.654,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 3,
+     "risk_pct_of_equity": 1.5,
+     "score": 13.8734,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "NOW"
+    }
+   },
+   {
     "kind": "exit",
     "ticker": "SAIL",
     "file": "2026-10-19-SAIL.json",
@@ -721,6 +893,38 @@
     "item": {
      "reason": "trail",
      "ticker": "SAIL"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "VEEV",
+    "file": "2026-10-19-VEEV.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {
+     "bought": false,
+     "note": "no position was opened on this signal"
+    },
+    "item": {
+     "atr": 10.3042,
+     "initial_stop": 292.4216,
+     "planned_entry": "2026-10-19T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 21.1491,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "VEEV"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-19-trend_sleeve.json",
+    "revealed_at": "2026-11-16",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]

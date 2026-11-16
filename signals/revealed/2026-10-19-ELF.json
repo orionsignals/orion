@@ -1,0 +1,23 @@
+{
+ "commitment": "b14ea16e925dfee3319b322eced7f07c0d82e8a098d16ceba3079731582b152f",
+ "item": {
+  "atr": 3.9017,
+  "initial_stop": 108.3066,
+  "planned_entry": "2026-10-19T09:35:00-04:00",
+  "rank": 2,
+  "risk_pct_of_equity": 1.5,
+  "score": 13.9627,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "ELF"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": false,
+  "note": "no position was opened on this signal"
+ },
+ "revealed_at": "2026-11-16",
+ "salt": "e2355221609db8d30adbc642656af990",
+ "session": "2026-10-19",
+ "ticker": "ELF"
+}
