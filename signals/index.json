@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-17",
+  "stage": "preopen",
+  "published_at": "2026-11-17T03:59:15+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": false,
+  "sha256": "b0f3cb3bb67a79c0ddf6c290a4e878ba2819518700c4cb4cdfceb2a39377c6a3",
+  "seq": 1,
+  "note": null,
+  "signature": "nC/c/GxD6w2OtFrc/MDDCsI83Sw1rmu0HDIQmyW/8vjHfAj5TTQR3Nl2DJuiZ7xyGziznV3CT8YM/GlLt0+fCQ==",
+  "file": "2026-11-17-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-16",
   "stage": "preopen",
   "published_at": "2026-11-16T13:57:13+00:00",
@@ -612,6 +626,17 @@
      "stop_atr": 2.0,
      "ticker": "AMZN"
     }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-20-trend_sleeve.json",
+    "revealed_at": "2026-11-17",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
    }
   ]
  },
@@ -649,6 +674,17 @@
      "state": "IGNITION",
      "stop_atr": 2.0,
      "ticker": "AMZN"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-20-trend_sleeve.json",
+    "revealed_at": "2026-11-17",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
