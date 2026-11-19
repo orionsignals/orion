@@ -1,0 +1,25 @@
+{
+ "commitment": "4a9744e7b513ddf9f9dae4953316850b5810c23a58942af1beb3ab415541cc72",
+ "item": {
+  "atr": 16.8411,
+  "initial_stop": 412.6278,
+  "planned_entry": "2026-11-12T09:35:00-05:00",
+  "rank": 2,
+  "risk_pct_of_equity": 1.5,
+  "score": 4.4615,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "HUM"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": true,
+  "entered": "2026-11-12T14:43",
+  "exit_reason": "swing exit: stop",
+  "exited": "2026-11-19T14:42"
+ },
+ "revealed_at": "2026-11-19",
+ "salt": "4e24a596aef275fd7ee5232e669a4d6d",
+ "session": "2026-11-12",
+ "ticker": "HUM"
+}

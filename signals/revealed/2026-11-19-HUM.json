@@ -1,0 +1,16 @@
+{
+ "commitment": "d728485d8ba15c24adeca2898bc143e1031807517e773769c28a93e7a177cdb7",
+ "item": {
+  "reason": "stop",
+  "ticker": "HUM"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-11-19T14:42",
+  "sold": true
+ },
+ "revealed_at": "2026-11-19",
+ "salt": "8418673fea77b72d2028782423d0638a",
+ "session": "2026-11-19",
+ "ticker": "HUM"
+}

@@ -11,7 +11,22 @@
   "note": null,
   "signature": "IWlrZCgdEcaksZShKumRm7FYgr+NRJqRut4NH2UL/hEDkmqwVJpBDdsSZhI6Wc7MgJBhcuIhlWfDLTVrlAV8BA==",
   "file": "2026-11-19-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "HUM",
+    "file": "2026-11-19-HUM.json",
+    "revealed_at": "2026-11-19",
+    "outcome": {
+     "exited": "2026-11-19T14:42",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "HUM"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-19",
@@ -25,7 +40,22 @@
   "note": null,
   "signature": "1IMzT9XH5pPpCbIVxBhL/pHeif/XyayPLgLSPrpkn84pllRz5GchM6Vr8Qop10ScwWxnrAuw2wtp4vRMdrKhDA==",
   "file": "2026-11-19-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "HUM",
+    "file": "2026-11-19-HUM.json",
+    "revealed_at": "2026-11-19",
+    "outcome": {
+     "exited": "2026-11-19T14:42",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "HUM"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-18",
@@ -137,7 +167,31 @@
   "note": null,
   "signature": "3cIVUIS4NQVRsBZKLtVe+HXQZ73i4XDedksqt5oHvRDxLD4/toUgPQus5NB8ES26ntGafwq0NgikvjsxyQbBDg==",
   "file": "2026-11-12-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "entry",
+    "ticker": "HUM",
+    "file": "2026-11-12-HUM.json",
+    "revealed_at": "2026-11-19",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-11-12T14:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-19T14:42"
+    },
+    "item": {
+     "atr": 16.8411,
+     "initial_stop": 412.6278,
+     "planned_entry": "2026-11-12T09:35:00-05:00",
+     "rank": 2,
+     "risk_pct_of_equity": 1.5,
+     "score": 4.4615,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "HUM"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-12",
@@ -151,7 +205,31 @@
   "note": null,
   "signature": "Ya0Y3ntQHu0vOcwlwsf5okyrYarsi6P0r7sUpyg5wTu6vzyuezOzmOK7XHN31tzWncmtbQYsBlo5z4TgkkiVBA==",
   "file": "2026-11-12-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "entry",
+    "ticker": "HUM",
+    "file": "2026-11-12-HUM.json",
+    "revealed_at": "2026-11-19",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-11-12T14:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-19T14:42"
+    },
+    "item": {
+     "atr": 16.8411,
+     "initial_stop": 412.6278,
+     "planned_entry": "2026-11-12T09:35:00-05:00",
+     "rank": 2,
+     "risk_pct_of_equity": 1.5,
+     "score": 4.4615,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "HUM"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-11",
