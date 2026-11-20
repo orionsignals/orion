@@ -1,0 +1,25 @@
+{
+ "commitment": "9ff8ccb1b2355c694ddb88c1f49730915aabd84c166d6cff07e492dd5420c6cd",
+ "item": {
+  "atr": 1.9013,
+  "initial_stop": 33.9374,
+  "planned_entry": "2026-11-12T09:35:00-05:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": 6.6868,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "ZETA"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": true,
+  "entered": "2026-11-12T14:43",
+  "exit_reason": "swing exit: stop",
+  "exited": "2026-11-20T14:42"
+ },
+ "revealed_at": "2026-11-20",
+ "salt": "a255bc6438ac6e126bf6ebcf282a1c64",
+ "session": "2026-11-12",
+ "ticker": "ZETA"
+}

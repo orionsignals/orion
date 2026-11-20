@@ -1,0 +1,16 @@
+{
+ "commitment": "1e344b0596af3cfaeb52f28f91226fd74f36d36b0ac80b940a4d89afccf43abf",
+ "item": {
+  "reason": "stop",
+  "ticker": "ZETA"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-11-20T14:42",
+  "sold": true
+ },
+ "revealed_at": "2026-11-20",
+ "salt": "4b1c73d413bc51abe535b392e2df7473",
+ "session": "2026-11-20",
+ "ticker": "ZETA"
+}

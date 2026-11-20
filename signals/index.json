@@ -11,7 +11,22 @@
   "note": null,
   "signature": "ok/vj0RmgFEkYWCj4r8k4moa70+2MFhbpwB0f/NYsJA+3ThbIDxdnwhDkW6je7PefcsZO+Ee2aJKoUQLVIsnDA==",
   "file": "2026-11-20-preopen-2.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "ZETA",
+    "file": "2026-11-20-ZETA.json",
+    "revealed_at": "2026-11-20",
+    "outcome": {
+     "exited": "2026-11-20T14:42",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "ZETA"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-20",
@@ -25,7 +40,22 @@
   "note": null,
   "signature": "HkV88xPhT//pC5x9lNkW2bNbMnzlDb6aDBCdvP5Sizjdif9MnvJcAb9ZmdzF7cm0kqUZaat7qqxrAbbzTkVBDw==",
   "file": "2026-11-20-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "ZETA",
+    "file": "2026-11-20-ZETA.json",
+    "revealed_at": "2026-11-20",
+    "outcome": {
+     "exited": "2026-11-20T14:42",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "ZETA"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-19",
@@ -218,6 +248,29 @@
      "stop_atr": 2.0,
      "ticker": "HUM"
     }
+   },
+   {
+    "kind": "entry",
+    "ticker": "ZETA",
+    "file": "2026-11-12-ZETA.json",
+    "revealed_at": "2026-11-20",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-11-12T14:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-20T14:42"
+    },
+    "item": {
+     "atr": 1.9013,
+     "initial_stop": 33.9374,
+     "planned_entry": "2026-11-12T09:35:00-05:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 6.6868,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "ZETA"
+    }
    }
   ]
  },
@@ -255,6 +308,29 @@
      "state": "IGNITION",
      "stop_atr": 2.0,
      "ticker": "HUM"
+    }
+   },
+   {
+    "kind": "entry",
+    "ticker": "ZETA",
+    "file": "2026-11-12-ZETA.json",
+    "revealed_at": "2026-11-20",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-11-12T14:43",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-20T14:42"
+    },
+    "item": {
+     "atr": 1.9013,
+     "initial_stop": 33.9374,
+     "planned_entry": "2026-11-12T09:35:00-05:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 6.6868,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "ZETA"
     }
    }
   ]
