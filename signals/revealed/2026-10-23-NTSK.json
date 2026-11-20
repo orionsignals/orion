@@ -1,0 +1,23 @@
+{
+ "commitment": "513006b1f42c715085570620041d4dac71adf448d6bdf68dfa60fd7f6ae31a3e",
+ "item": {
+  "atr": 1.2431,
+  "initial_stop": 19.7438,
+  "planned_entry": "2026-10-23T09:35:00-04:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": 15.3554,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "NTSK"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": false,
+  "note": "no position was opened on this signal"
+ },
+ "revealed_at": "2026-11-20",
+ "salt": "fda80bbb2c4803e4db4ce4c68ce8ec6f",
+ "session": "2026-10-23",
+ "ticker": "NTSK"
+}
