@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-23",
+  "stage": "preopen",
+  "published_at": "2026-11-23T13:55:56+00:00",
+  "n_entries": 0,
+  "n_exits": 1,
+  "market_filter_on": false,
+  "sha256": "1b3ca41a3e4d27f3aee9db5a2a13e4b5cc6b2917c20bd44f102ddb26be2c85d1",
+  "seq": 1,
+  "note": null,
+  "signature": "M6u1up+BII46MqAGWTl8HP3SVWej8KJY5LICwdmZ7KLW+7WwEws/fSdVtC4tNuYT4IDJykUA6mobIsP1YoAvAw==",
+  "file": "2026-11-23-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-20",
   "stage": "preopen",
   "published_at": "2026-11-20T13:55:56+00:00",
@@ -693,6 +707,17 @@
     "item": {
      "reason": "stop",
      "ticker": "AMZN"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-26-trend_sleeve.json",
+    "revealed_at": "2026-11-23",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
