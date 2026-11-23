@@ -1,0 +1,16 @@
+{
+ "commitment": "75d220d3bfb29e1ed6a684b86abb7771bbf5546315b365d434f793a3b33d51c8",
+ "item": {
+  "reason": "stop",
+  "ticker": "FIVE"
+ },
+ "kind": "exit",
+ "outcome": {
+  "exited": "2026-11-23T14:43",
+  "sold": true
+ },
+ "revealed_at": "2026-11-23",
+ "salt": "d5fd6ff61907707605f6c97a42bbbf6c",
+ "session": "2026-11-23",
+ "ticker": "FIVE"
+}

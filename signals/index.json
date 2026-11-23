@@ -11,7 +11,22 @@
   "note": null,
   "signature": "M6u1up+BII46MqAGWTl8HP3SVWej8KJY5LICwdmZ7KLW+7WwEws/fSdVtC4tNuYT4IDJykUA6mobIsP1YoAvAw==",
   "file": "2026-11-23-preopen.json",
-  "revealed": []
+  "revealed": [
+   {
+    "kind": "exit",
+    "ticker": "FIVE",
+    "file": "2026-11-23-FIVE.json",
+    "revealed_at": "2026-11-23",
+    "outcome": {
+     "exited": "2026-11-23T14:43",
+     "sold": true
+    },
+    "item": {
+     "reason": "stop",
+     "ticker": "FIVE"
+    }
+   }
+  ]
  },
  {
   "session": "2026-11-20",
@@ -519,6 +534,29 @@
   "file": "2026-10-30-preopen-2.json",
   "revealed": [
    {
+    "kind": "entry",
+    "ticker": "FIVE",
+    "file": "2026-10-30-FIVE.json",
+    "revealed_at": "2026-11-23",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-30T14:06",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-23T14:43"
+    },
+    "item": {
+     "atr": 7.2081,
+     "initial_stop": 231.0838,
+     "planned_entry": "2026-10-30T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 3.2424,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "FIVE"
+    }
+   },
+   {
     "kind": "exit",
     "ticker": "NOW",
     "file": "2026-10-30-NOW.json",
@@ -547,6 +585,29 @@
   "signature": "NZrNZE2OeDJMXyymbt9reK/AR8f7IpzJl7xrNMcdUKMIZrZnisEw31kouScZZfSthfzb8v7fDe/vkigkrHOyDw==",
   "file": "2026-10-30-preopen.json",
   "revealed": [
+   {
+    "kind": "entry",
+    "ticker": "FIVE",
+    "file": "2026-10-30-FIVE.json",
+    "revealed_at": "2026-11-23",
+    "outcome": {
+     "bought": true,
+     "entered": "2026-10-30T14:06",
+     "exit_reason": "swing exit: stop",
+     "exited": "2026-11-23T14:43"
+    },
+    "item": {
+     "atr": 7.2081,
+     "initial_stop": 231.0838,
+     "planned_entry": "2026-10-30T09:35:00-04:00",
+     "rank": 1,
+     "risk_pct_of_equity": 1.5,
+     "score": 3.2424,
+     "state": "IGNITION",
+     "stop_atr": 2.0,
+     "ticker": "FIVE"
+    }
+   },
    {
     "kind": "exit",
     "ticker": "NOW",

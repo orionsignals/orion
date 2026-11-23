@@ -1,0 +1,25 @@
+{
+ "commitment": "dc3ce95d4ecbd1a2b7b52be191275741004f6cfb3b3c3d2171dcd8f91956f948",
+ "item": {
+  "atr": 7.2081,
+  "initial_stop": 231.0838,
+  "planned_entry": "2026-10-30T09:35:00-04:00",
+  "rank": 1,
+  "risk_pct_of_equity": 1.5,
+  "score": 3.2424,
+  "state": "IGNITION",
+  "stop_atr": 2.0,
+  "ticker": "FIVE"
+ },
+ "kind": "entry",
+ "outcome": {
+  "bought": true,
+  "entered": "2026-10-30T14:06",
+  "exit_reason": "swing exit: stop",
+  "exited": "2026-11-23T14:43"
+ },
+ "revealed_at": "2026-11-23",
+ "salt": "dfae353a12a5dd478b7ba1587a6d419b",
+ "session": "2026-10-30",
+ "ticker": "FIVE"
+}
