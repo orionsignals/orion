@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-24",
+  "stage": "preopen",
+  "published_at": "2026-11-24T00:15:30+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": false,
+  "sha256": "5ed92d6fe33e78d423abcac22a5bff560067ad1c776e6a2efc6fc50a3a123a6e",
+  "seq": 1,
+  "note": null,
+  "signature": "1O2C7D0oEVvJJFpZYv3Oo5HKnv/SdAilWRI3/4MZadp58uHDpH3su+F1qOd9SDNjNKBBkiqCk/3Ow6d5kiprBQ==",
+  "file": "2026-11-24-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-23",
   "stage": "preopen",
   "published_at": "2026-11-23T13:55:56+00:00",
@@ -739,6 +753,17 @@
     "item": {
      "reason": "trail",
      "ticker": "IBRX"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-27-trend_sleeve.json",
+    "revealed_at": "2026-11-24",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
