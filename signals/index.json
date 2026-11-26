@@ -1,5 +1,19 @@
 [
  {
+  "session": "2026-11-26",
+  "stage": "preopen",
+  "published_at": "2026-11-26T03:40:17+00:00",
+  "n_entries": 0,
+  "n_exits": 0,
+  "market_filter_on": false,
+  "sha256": "69ac02ba4c5df4aa1f7c09845bfa420ccc6d4dd84dde741279c56f321f568c82",
+  "seq": 1,
+  "note": null,
+  "signature": "c85jR3987y7I8g3v668FghaG55PumPLnrvo8A3R6Zss/PB1ftia8Gf1MzSfUuZFnHNpkHpgF2aW5pPAlkW2MDA==",
+  "file": "2026-11-26-preopen.json",
+  "revealed": []
+ },
+ {
   "session": "2026-11-25",
   "stage": "preopen",
   "published_at": "2026-11-25T04:17:11+00:00",
@@ -687,6 +701,17 @@
      "stop_atr": 2.0,
      "ticker": "NUE"
     }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-29-trend_sleeve.json",
+    "revealed_at": "2026-11-26",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
    }
   ]
  },
@@ -724,6 +749,17 @@
      "state": "IGNITION",
      "stop_atr": 2.0,
      "ticker": "NUE"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-29-trend_sleeve.json",
+    "revealed_at": "2026-11-26",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
