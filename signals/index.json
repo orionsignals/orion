@@ -625,6 +625,17 @@
      "reason": "stop",
      "ticker": "NOW"
     }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-30-trend_sleeve.json",
+    "revealed_at": "2026-11-27",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
+    }
    }
   ]
  },
@@ -676,6 +687,17 @@
     "item": {
      "reason": "stop",
      "ticker": "NOW"
+    }
+   },
+   {
+    "kind": "trend_sleeve",
+    "ticker": null,
+    "file": "2026-10-30-trend_sleeve.json",
+    "revealed_at": "2026-11-27",
+    "outcome": {},
+    "item": {
+     "liquidate": false,
+     "targets": null
     }
    }
   ]
